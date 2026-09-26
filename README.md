@@ -39,7 +39,7 @@ Built around product discovery and shopping interactions, with reusable componen
 **→ Client-side navigation**
 **→ Redux state management**
 
-[🔗 Live Demo](#)   •   [💻 Source Code](#)
+
 
 ---
 
@@ -51,7 +51,7 @@ Built around product discovery and shopping interactions, with reusable componen
 
 Designed a clean shopping interface with categories, products, offers, and interactive elements.
 
-[🔗 Live Demo](#)   •   [💻 Source Code](#)
+
 
 ---
 
@@ -63,7 +63,7 @@ Designed a clean shopping interface with categories, products, offers, and inter
 
 Focused on structured content, responsive layouts, and interactive frontend elements.
 
-[💻 Source Code](#)
+
 
 ---
 
@@ -75,7 +75,7 @@ Focused on structured content, responsive layouts, and interactive frontend elem
 
 Built a property-focused interface using responsive layouts, Flexbox, Grid, and interactive elements.
 
-[💻 Source Code](#)
+
 
 ---
 
@@ -112,16 +112,6 @@ I'm continuously working on:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ameen2425&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameen2425&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ameen2425&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
